@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    clear: both;
+}
+.menu{
+    height: 70px;
+    background-color: rgb(223, 204, 33);
+    .user{
+        height: 50px;
+        float: right;
+        color: black;
+        
+    }
+}
+
+.contentshow{
+    width: 50px;
+    margin: 90px 400px;
+    padding-top: 30px;
+    align-content: center;
+   
+    
+    
+}
+td{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+label{
+    font: size 20px;
+}
+.btn-default{
+    background-color: darkgoldenrod;
+    color: black;
+   
+}
+.ib{
+ display: inline-block;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 5px 10px;
+}
